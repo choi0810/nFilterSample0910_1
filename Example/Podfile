@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'nFilterSample0910_1_Example' do
+  pod 'nFilterSample0910_1', :path => '../'
+
+  target 'nFilterSample0910_1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
