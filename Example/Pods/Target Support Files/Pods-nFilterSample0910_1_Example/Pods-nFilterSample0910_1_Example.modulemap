@@ -1,0 +1,6 @@
+framework module Pods_nFilterSample0910_1_Example {
+  umbrella header "Pods-nFilterSample0910_1_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

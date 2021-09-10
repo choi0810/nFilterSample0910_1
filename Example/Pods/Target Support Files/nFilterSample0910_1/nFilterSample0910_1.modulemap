@@ -1,0 +1,6 @@
+framework module nFilterSample0910_1 {
+  umbrella header "nFilterSample0910_1-umbrella.h"
+
+  export *
+  module * { export * }
+}
